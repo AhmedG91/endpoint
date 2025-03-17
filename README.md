@@ -23,7 +23,7 @@ So, I tackled this directory management coding challenge, and this is my attempt
 **Future Things I'd Add**
 
 *   **More Unit Tests:** I need to add more unit tests to ensure the correctness of the code.
-*   **More Robust Path Handling:** Add more validation and normalization to the `Path` class.
+*   **More Robust Path Handling:** Add more validation and normalization to the path.
 *   **Performance Optimizations:** Explore more efficient path caching strategies and consider iterative approaches for recursive operations.
 
 Feel free to explore the code, offer feedback, and contribute to the project! I'm always open to learning new things and improving my skills.
